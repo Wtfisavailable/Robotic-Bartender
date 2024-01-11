@@ -3,15 +3,15 @@ Pham Nguyen, Van Thao (2138908)
 Botaschanjan, Nikita ( Matrikelnummer2 )
 
 ## Abstract
-Beschreibt hier kurz , um was es in eurem Projekt geht . Denkt an die Deadline am 31. Januar
-2024! Beispiel :
-Das Ziel das Projektes ist einen Kuchen zu schaffen , der seinen Geschmack adaptiv an das
-Beduerfnis seiner Verzehrenden anpasst . Um dies zu erreichen , wird mithilfe
-verschiedener Sensoren das aktuelle Geschmacksbeduerfnis erkannt . Die von uns
-geschaffenen Geschmacksmotoren passen dann den Geschmack des Kuchens an.
+Beschreibt hier kurz , um was es in eurem Projekt geht . Denkt an die Deadline am 31. Januar 2024! Beispiel :
+Das Ziel das Projektes ist einen Kuchen zu schaffen , der seinen Geschmack adaptiv an das Beduerfnis seiner Verzehrenden anpasst . Um dies zu erreichen , wird mithilfe verschiedener Sensoren das aktuelle Geschmacksbeduerfnis erkannt . Die von uns geschaffenen Geschmacksmotoren passen dann den Geschmack des Kuchens an.
+
+The goal of this project is to create a machine that could make new drinks by mixing available simple drinks. The users should have 2 options, that is to choose drinks from menu and to create drinks by themselves. This robot should be able to tell, whether  a cup is placed on the cup stand before pouring drinks and give alert, when the cup is almost full. In order to determine the state of the cup, we would use a weight sensor, which is put on the cup stand (under the cup). A motor driver and stepper motors would also be used to move the base.
 
 ## Motivation
 Eure Motivation fuer das Projekt
+
+We think this would be an interesting and also useful robot. More important is that we would definitely learn and experience a lot through the process of creating this machine. 
 
 ## Inspiration
 Etwas das euch beim Projekt inspiriert hat , wie eine andere Arbeit oder ein Produkt . Wenn
